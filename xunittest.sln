@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunittest", "xunittest\xunittest.csproj", "{0078DF9D-CF2B-42EE-B8EB-9D4F5A8C40FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0078DF9D-CF2B-42EE-B8EB-9D4F5A8C40FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0078DF9D-CF2B-42EE-B8EB-9D4F5A8C40FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0078DF9D-CF2B-42EE-B8EB-9D4F5A8C40FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0078DF9D-CF2B-42EE-B8EB-9D4F5A8C40FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989249A3-6D94-485C-BD53-13C9CA792E58}
+	EndGlobalSection
+EndGlobal
